@@ -1,5 +1,4 @@
 %ANIL BHUSAL
-%THA075BME004
 %MACHINE DESIGN - III / LAB REPORT
 %DESIGN OF DRUM BRAKE
 
@@ -7,7 +6,7 @@ clc;
 clear all;
 
 
-fprintf('ANIL BHUSAL - THA075BME004\n')
+fprintf('ANIL BHUSAL\n')
 fprintf('\nRequired Braking Torque: 400 N.m\n\n')
 
 % Prior Decisions

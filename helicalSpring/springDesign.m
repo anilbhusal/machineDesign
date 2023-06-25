@@ -1,6 +1,6 @@
 
 %ANIL BHUSAL
-%THA075BME004
+
 %MACHINE DESIGN - II / LAB REPORT
 %DESIGN OF MECHANICAL SPRING
 
@@ -13,7 +13,7 @@
 clc;
 clear all;
 
-fprintf('ANIL BHUSAL - THA075BME004')
+fprintf('ANIL BHUSAL')
 fprintf('\nMATERIAL USED : Music Wire A228\n\n')
 A = 1122;       %From Table 10-4, enter "A"
 m = 0.145;      %From Table 10-4, enter "m"
